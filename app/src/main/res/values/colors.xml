@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorGreen">#43c345</color>
+    <color name="colorYellow">#ffffa920</color>
+    <color name="colorBlue">#ff4478e2</color>
+    <color name="colorBrown">#33fec446</color>
+
+
+    <color name="white">#ffffffff</color>
+    <color name="title_color">#37475D</color>
+    <color name="sub_title_color">#71859B</color>
+    <color name="add_song_blue">#4285F4</color>
+    <color name="divider_line_color">#ff71859B</color>
+    <color name="speaker_info_param_bg_color">#F1F5F8</color>
+    <color name="timepicker_choose_color">#3777E0</color>
+    <color name="new_config_tips_color">#333333</color>
+
+    <color name="main_blackground">#1a1a2b</color>
+    <color name="progress_blackground">#90201a2b</color>
+    <color name="listview_bg">#4ec2ff</color>
+    <color name="listview_item_bg">#0e2a38</color>
+    <color name="listview_item_focus">#37a0c4</color>
+
+
+</resources>

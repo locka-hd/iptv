@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\Iptv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\exo_controls_repeat_off.png",
+        "source": "F:\\Iptv\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "F:\\Iptv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\exo_controls_pause.png",
+        "source": "F:\\Iptv\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\exo_controls_pause.png"
+    },
+    {
+        "merged": "F:\\Iptv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\exo_controls_repeat_all.png",
+        "source": "F:\\Iptv\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "F:\\Iptv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\exo_controls_rewind.png",
+        "source": "F:\\Iptv\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "F:\\Iptv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\exo_controls_previous.png",
+        "source": "F:\\Iptv\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\exo_controls_previous.png"
+    },
+    {
+        "merged": "F:\\Iptv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\exo_edit_mode_logo.png",
+        "source": "F:\\Iptv\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "F:\\Iptv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\exo_controls_play.png",
+        "source": "F:\\Iptv\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\exo_controls_play.png"
+    },
+    {
+        "merged": "F:\\Iptv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\exo_controls_repeat_one.png",
+        "source": "F:\\Iptv\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "F:\\Iptv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\exo_controls_next.png",
+        "source": "F:\\Iptv\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\exo_controls_next.png"
+    },
+    {
+        "merged": "F:\\Iptv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\exo_controls_fastforward.png",
+        "source": "F:\\Iptv\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\exo_controls_fastforward.png"
+    }
+]

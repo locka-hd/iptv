@@ -1,0 +1,75 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Mediastar Iptv </string>
+
+    <string name="video">Video</string>
+
+    <string name="audio">Audio</string>
+
+    <string name="text">Text</string>
+
+    <string name="retry">Retry</string>
+
+    <string name="selection_disabled">Disabled</string>
+
+    <string name="selection_default">Default</string>
+
+    <string name="unexpected_intent_action">Unexpected intent action: <xliff:g id="action">%1$s</xliff:g></string>
+
+    <string name="enable_random_adaptation">Enable random adaptation</string>
+
+    <string name="error_drm_not_supported">Protected content not supported on API levels below 18</string>
+
+    <string name="error_drm_unsupported_scheme">This device does not support the required DRM scheme</string>
+
+    <string name="error_drm_unknown">An unknown DRM error occurred</string>
+
+    <string name="error_no_decoder">This device does not provide a decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+
+    <string name="error_no_secure_decoder">This device does not provide a secure decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+
+    <string name="error_querying_decoders">Unable to query device decoders</string>
+
+    <string name="error_instantiating_decoder">Unable to instantiate decoder <xliff:g id="decoder_name">%1$s</xliff:g></string>
+
+    <string name="error_unsupported_video">Media includes video tracks, but none are playable by this device</string>
+
+    <string name="error_unsupported_audio">Media includes audio tracks, but none are playable by this device</string>
+
+    <string name="storage_permission_denied">Permission to access storage was denied</string>
+
+    <string name="sample_list_load_error">One or more sample lists failed to load</string>
+
+    <string name="ima_not_loaded">Playing sample without ads, as the IMA extension was not loaded</string>
+
+
+    <string name="channels_categories">Categories</string>
+    <string name="channels_Login_info">Login Info</string>
+    <string name="channels_search">Search</string>
+    <string name="channels_add_fav">Add FAV</string>
+    <string name="channels_fav_list">FAV List</string>
+    <string name="fav">Fav</string>
+    <string name="channels_update_channels_list">Update Channels List</string>
+    <string name="search">Search</string>
+
+    <string name="all_channels">ALL Channels</string>
+    <string name="delete">Delete</string>
+    <string name="code">Code :</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="confirm">Confirm</string>
+    <string name="delete_code">Delete Code</string>
+    <string name="restore_code">Restore Code</string>
+    <string name="network_request_error">Network error,Please try again</string>
+    <string name="cancle">Cancle</string>
+
+
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_repeat_off_description">Repeat none</string>
+    <string name="exo_controls_repeat_one_description">Repeat one</string>
+    <string name="exo_controls_repeat_all_description">Repeat all</string>
+</resources>

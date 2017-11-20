@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:background="@color/listview_item_bg"
+    >
+
+    <TextView
+        android:id="@+id/tv_number"
+        android:layout_width="120px"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:text="0011"
+        android:textColor="@color/colorWhite"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tv_channel_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/tv_number"
+        android:ellipsize="end"
+        android:gravity="left"
+        android:layout_marginLeft="1px"
+        android:paddingLeft="25dp"
+        android:singleLine="true"
+        android:textColor="@color/colorWhite"
+        android:text="MY-MBC Action HD"
+        android:textSize="20sp" />
+</RelativeLayout>
